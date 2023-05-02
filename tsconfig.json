@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+      "target": "es6",
+      "module": "commonjs",
+      "declaration": true,
+      "outDir": "dist",
+      "types": [
+        "jest",
+        "@types/node"
+      ]
+    },
+    "include": [
+      "mo-du-ololo.ts",
+      "test"
+    ]
+}
